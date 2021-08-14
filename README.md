@@ -2,7 +2,7 @@
 
 https://colab.research.google.com/drive/1hQXUT-TXjsY2sBKam4Z44mF_B5ZP0BQt?usp=sharing
 
-
+![](/images/notes1.jpg)
 
 ![](/images/detr1.png)
 
